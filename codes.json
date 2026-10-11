@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "location": "Red Hallway Cupboard",
+    "chapter": "Prologue / Early Facility",
+    "code": "0199",
+    "alternate_code": "9901",
+    "loot": "Handgun Ammunition x12, Green Herb",
+    "hint": "Check blood-stained operational clipboard on the gurney next to the security shutter."
+  },
+  {
+    "id": 2,
+    "location": "Medical Room Locker",
+    "chapter": "Ward B",
+    "code": "9891",
+    "alternate_code": null,
+    "loot": "Hemostatic Injector (Health Upgrade)",
+    "hint": "Engraved onto the stethoscope tray near Doctor Vance's examination desk."
+  },
+  {
+    "id": 3,
+    "location": "Graveyard House Safe",
+    "chapter": "Mausoleum Grounds",
+    "code": "9606",
+    "alternate_code": null,
+    "loot": "Relic Fragment #2 (Achievement Progress)",
+    "hint": "Four numbers inscribed across gravestones in the south crypt courtyard."
+  },
+  {
+    "id": 4,
+    "location": "Bruno's Music Room Cupboard",
+    "chapter": "Mansion West Wing",
+    "code": "1966",
+    "alternate_code": null,
+    "loot": "Antique Key, Shotgun Shells x6",
+    "hint": "Piano sheet music cover date lying open on the grand piano."
+  },
+  {
+    "id": 5,
+    "location": "Snake Room Cupboard",
+    "chapter": "Mansion East Wing",
+    "code": "1952",
+    "alternate_code": null,
+    "loot": "Heavy Revolver (Magnum), Magnum Rounds x4",
+    "hint": "Herpetology specimen archive jar label inside the glass terrarium."
+  },
+  {
+    "id": 6,
+    "location": "Private Rooms Bathroom Cupboard",
+    "chapter": "Residential Floor",
+    "code": "1923",
+    "alternate_code": null,
+    "loot": "First Aid Spray, Cryptic Diary Page 4",
+    "hint": "Scratched into the fogged mirror surface behind the shower curtain."
+  },
+  {
+    "id": 7,
+    "location": "Factory Blue Door Keypad",
+    "chapter": "Industrial Sector",
+    "code": "1362",
+    "alternate_code": null,
+    "loot": "Substation Access Keycard, Flash Grenade x2",
+    "hint": "Maintenance logbook terminal output inside the foreman's booth."
+  },
+  {
+    "id": 8,
+    "location": "Laundry Room Locker",
+    "chapter": "Lower Facility",
+    "code": "8571",
+    "alternate_code": null,
+    "loot": "Inventory Bag Expansion (+2 Slots)",
+    "hint": "Inspection tag pinned to the uniform on the third sorting conveyor."
+  },
+  {
+    "id": 9,
+    "location": "Break Room Locker",
+    "chapter": "Administration Block",
+    "code": "2342",
+    "alternate_code": null,
+    "loot": "Combat Knife Durability Charm",
+    "hint": "Employee locker assignment whiteboard with birthday scribbles."
+  },
+  {
+    "id": 10,
+    "location": "Sewer Level Locker",
+    "chapter": "Catacombs & Sub-Level 3",
+    "code": "1512",
+    "alternate_code": null,
+    "loot": "High-Explosive Grenade x2, Assault Rifle Mag x1",
+    "hint": "Valve pressure meter readout sequence near the floodgate control panel."
+  }
+]
